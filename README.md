@@ -28,7 +28,7 @@ To deploy the application to Google Cloud:
 ## Installation
 1. Clone the repository 
 2. Install dependencies in both the client and server directories 
-    * `cd Talkito/client`
+    * `cd client`
     * `npm install`
     * `cd ../server`
     * `npm install`
